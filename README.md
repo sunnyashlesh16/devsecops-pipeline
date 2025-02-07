@@ -23,7 +23,7 @@ Explore the `Jenkins-Server-TF` directory to find Terraform scripts for setting 
 The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploying your application on AWS EKS. Understand and customize these files to suit your project needs.
 
 ## EKS
-The `Kubernetes-Manifests-Files` directory holds EKS Terraform files for deploying AWS EKS. Understand and customize these files to suit your project needs.
+The `eks` directory holds EKS Terraform files for deploying AWS EKS. Understand and customize these files to suit your project needs.
 
 ## Project Details
 🛠️ **Tools Explored:**
